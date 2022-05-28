@@ -1,1 +1,11 @@
-
+{
+  "id":001,
+  "title":"home page | logo icon | misspell",
+  "severity":"high",
+  "environment":"windows10, google chrome ver.xx.xx.x",
+  "preconditions":"clean cooky and cash, close all irrelevant windows",
+  "steps to reproduce":"1.open website on home page",
+  "expected result":"logo icon according to requirments",
+  "actual result":"logo icon misspeled",
+  "attachments":"none"
+}
